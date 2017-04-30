@@ -7,23 +7,24 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
   },
   "engines": {
     "node": "4.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-sample"
+    "url": "https://github.com/casterfile/nodejs-web-applicationssss"
   },
   "keywords": [
     "node",
     "heroku",
     "express"
   ],
-  "author": "Mark Pundsack",
+  "author": "Anthony A. Castor",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Anthony A. Castor <dev.anthonycastor@gmail.com> (http://acastor.com)"
   ],
   "license": "MIT"
 }
